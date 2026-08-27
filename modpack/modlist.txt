@@ -1,0 +1,110 @@
+Performance / Rendering
+
+Sodium 0.8.13-beta.2
+Sodium Extra 0.9.3
+Sodium Dynamic Lights 1.0.9
+Lithium 0.15.4
+Ferrite Core 7.0.3
+ModernFix 5.27.20
+EntityCulling 1.10.5
+ImmediatelyFast 1.6.12
+Distant Horizons 3.1.2-b
+Model Gap Fix 1.21-1.10
+ServerCore 1.5.17
+Flywheel 1.0.6
+Veil 4.3.2
+Sound Physics Remastered 1.21.1-1.5.1
+
+Create & Create Addons
+
+Create 6.0.10
+Create Aeronautics 1.3.1 (+ Portable Engine Liquid Fuel)
+Create Big Cannons 5.11.7
+Create Cobblestone 1.4.12 / Cobblestone Deepslate Generators 1.4.6
+Create Deco 2.1.3
+Create Factory Abstractions 1.6.0
+Create Hypertube 0.6.0
+Create Jetpack 5.2.1 (+ Flight Lib)
+Create Offroad 1.3.1
+Create Simulated 1.3.1
+Create Slice & Dice 4.3.3 (+ Atmosphere)
+Create Touchpad Scrolling Fix 1.0.0
+Create Tweaked Controllers 1.2.7
+Create: Addictives 3.1.1
+Create: Aeroworks 1.5.0
+Create: Central Kitchen 2.6.0
+Create: Copper and Zinc 2.0.0
+Create: Copycats+ 3.0.8
+Create: Dragons Plus 1.11.7b
+Create: Enchantment Industry 2.4.2
+Create: Extra Gauges 2.1.2
+Create: Fluid 2.0.1
+Create: Meta Logistics 0.4.7
+Create: Mobile Packages 0.7.7
+Create: Pattern Schematics 2.0.10
+Create: Power Grid 0.6.1
+Create: Power Loader 2.0.5
+Create: Radars 0.4.9.4
+Create: Simple Ore Doubling 1.6.0
+Create: Sound of Steam (Pipe Organs) 0.8.2
+Create: Steam 'n' Rails (Railways) 0.2.1
+Create: Threaded Trains 1.0.0
+Create: Vibrant Vaults 0.3.2
+Flame's Create Netherrack 1.0.0
+
+UI / QoL
+
+AppleSkin 3.0.9
+Better Ping Display 1.1
+BetterF3 11.0.3
+ClientSort 2.2.2
+Cloth Config v15 15.0.140
+Compat Manager 1.0.7
+Constant Music 1.0.6
+Curios API 9.5.1
+Elytra Slot 9.0.2
+Fast IP Ping 1.0.11
+Fzzy Config 0.7.6
+Gravestone Mod 1.0.40
+Inventorio 1.11.0
+Jade 15.10.6
+Just Enough Items (JEI) 19.44.0.405
+JEIWorldGen 1.4.4
+Just Zoom 2.1.0
+Konkrete 1.9.9
+Let Me Despawn 1.5.0
+Multiplayer Server Pause 1.3.3
+ShulkerBoxTooltip 5.1.9
+Simple Backups 4.0.30
+Xaero's Minimap 26.4.2
+Xaero's World Map 1.45.0 (+ Map Server Utils)
+
+Movement / Gameplay
+
+AI-Improvements 0.5.3
+Almanac 1.5.2
+Architectury 13.0.11
+AutoElytraFlight 2.0.0
+Caelus API 7.0.1
+Chunky 1.4.23
+Deployer 0.1.2
+elytra optimizations 1.0.6
+Global Spectator Voicechat 1.0.1
+GPUTape 1.0.2
+iChunUtil 1.0.3
+Molten Vents 2.1.1
+Player Animation Library 1.1.6
+Ritchie's Projectile Library 2.1.2
+Sable 2.0.5 (+ Sable Companion)
+Shears Disable Tripwires 0.0.1
+Simple Voice Chat 2.6.22
+YARRP 0.2.0
+
+Libraries/Core
+
+Forgified Fabric API 0.116.15 (bundles ~50 fabric_* sub-APIs)
+Kotlin For Forge 5.12.0
+NeoForge 21.1.248
+Ponder 1.0.82
+TRansition 1.0.21
+TRender 1.0.15
